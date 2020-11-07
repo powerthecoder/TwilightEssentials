@@ -1,9 +1,0 @@
-main: "xyz.powerthecoder.CoolEssentials.Main"
-name: "CoolEssentials"
-author: "Leo Power, Omar Morejon"
-version: "1.0"
-api-version: "1.16"
-
-commands:
-  e:
-  about:
