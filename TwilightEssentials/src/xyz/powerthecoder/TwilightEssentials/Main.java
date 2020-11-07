@@ -40,7 +40,6 @@ public class Main extends JavaPlugin implements Listener {
             }
          // Player
             Player player = (Player) sender;
-            player.sendMessage("Test");
             player.openInventory(inv);
             return true;
         }
